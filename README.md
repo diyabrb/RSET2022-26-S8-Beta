@@ -6,6 +6,18 @@ This repository contains all the source code and final reports for the final yea
 
 ## Projects
 
+
+### Group 4
+**Project:** [ Zync - AI Powered Automated Video Editor (https://github.com/diyabrb/RSET2022-26-S8-Beta.git))
+**Members:**
+-Diya Bino (U2203080)
+-Hanna Sara Eldho (U2203104)
+-Jaice Joshy (U2203108)
+-Maysa Sameer (U2203139)
+
+**Guide:** Ms. Shini Sam
+---
+
 ### Group 6
 **Project:** [TITAN: Trash Interception and Termination Autonomous Navigator](https://github.com/GeorgeET15/RSET2022-26-S8-Beta/tree/main/TITAN%3A%20Trash%20Interception%20and%20Termination%20Autonomous%20%20Navigator)
 **Members:**
