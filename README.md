@@ -6,6 +6,26 @@ This repository contains all the source code and final reports for the final yea
 
 ## Projects
 
+### Group 1
+**Project:** [SweepX: Solar Panel Cleaning Drone](https://github.com/jacobthh/RSET2022-26-S8-Beta/tree/main/SweepX-Group%201)
+**Members:**
+- E A Aamil Haq (U2203084)
+- Farhan Noushad (U2203092)
+- Jacob Thomas (U2203107)
+- Mohammed Shafi (U2203143)
+
+**Guide:** Mr. Biju Abraham Narayamparambil
+
+### Group 4
+**Project:** [Zync: AI Powered Automated Video Editor](https://github.com/diyabrb/RSET2022-26-S8-Beta)
+**Members:**
+- Diya Bino (U2203080)
+- Hanna Sara Eldho (U2203104)
+- JJaice Joshy (U2203108)
+- Maysa Sameer (U2203139)
+
+**Guide:** Ms. Shini Sam
+
 ### Group 6
 **Project:** [TITAN: Trash Interception and Termination Autonomous Navigator](https://github.com/GeorgeET15/RSET2022-26-S8-Beta/tree/main/TITAN%3A%20Trash%20Interception%20and%20Termination%20Autonomous%20%20Navigator)
 **Members:**
@@ -15,40 +35,8 @@ This repository contains all the source code and final reports for the final yea
 - Liya Jacob (U2203134)
 
 **Guide:** Dr. Jincy J. Fernandez
-##
-
-### Group 7
-**Project:** [SEISMICO: Seismic Monitoring using Distributed Acoustic Sensing]([GROUP-7-Seismic-Monitoring-using-Distributive-Acoustic-Sensing](https://github.com/RSET-CSE-DEPARTMENT/RSET2022-26-S8-Beta/tree/2b00c3013b4f4f00d280e11fa0cb52436fc453a2/GROUP-7-Seismic-Monitoring-using-Distributive-Acoustic-Sensing))
-**Members:**
-- Jala Vishwa Keerthi (U2203109)
-- Cyriac James Boby (U2203073)
-- Joash Roy (U2203115)
-- Johan B. Agustine (U2203119)
-
-**Guide:** Dr. Amitha Mathew
----
-### Group 15
-**Project:** [Corporate Email Summarization and Task Extraction](https://github.com/RSET-CSE-DEPARTMENT/RSET2022-26-S8-Beta/tree/main/Group%2015%20Corporate%20Email%20Summarization%20and%20Task%20Extraction)
-**Members:**
-- Eby J Kavungal (U2203085)
-- Elena Thomas Kochupurakal (U2203087)
-- Meera Santhosh (U2203141)
-
-**Guide:** Ms. Meenu Mathew
 
 ---
-
-
-### Group 18
-**Project:** [Dark Web Threat Monitoring Crawler](https://github.com/levi-aureus/RSET2022-26-S8-Beta.git)
-**Members:**
-- Diya Vypana (U2203081)
-- Jithin Shabu (U2203114)
-- Levana P Saju (U2203133)
-- Mathew Dominic (U2203138)
-
-**Guide:** Dr. Jomina John
-
 
 > **Note for other groups:** 
 > Please remember to update this `README.md` file to add your own group's details and a link to your project folder when you upload your project source code and reports!
